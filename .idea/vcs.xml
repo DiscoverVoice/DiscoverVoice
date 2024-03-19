@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SingingVoiceConversion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SuperDemucs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/utils/ffmpeg" vcs="Git" />
+  </component>
+</project>

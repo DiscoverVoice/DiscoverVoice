@@ -1,0 +1,6 @@
+[submodule "SingingVoiceConversion"]
+	path = SingingVoiceConversion
+	url = https://github.com/DiscoverVoice/Singing-Voice-Conversion-transformers.git
+[submodule "SuperDemucs"]
+	path = SuperDemucs
+	url = https://github.com/DiscoverVoice/SuperDemucs.git
