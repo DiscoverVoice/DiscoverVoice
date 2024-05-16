@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SVCtransformers" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SuperDemucs" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/utils/ffmpeg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BS-RoFormer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVSEP-MDX23-music-separation-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demucs" vcs="Git" />
   </component>
 </project>

@@ -1,9 +1,6 @@
 [submodule "SuperDemucs"]
 	path = SuperDemucs
 	url = https://github.com/DiscoverVoice/SuperDemucs.git
-[submodule "utils/ffmpeg"]
-	path = utils/ffmpeg
-	url = https://github.com/BtbN/FFmpeg-Builds.git
 [submodule "SVCtransformers"]
 	path = SVCtransformers
 	url = https://github.com/DiscoverVoice/Singing-Voice-Conversion-transformers.git

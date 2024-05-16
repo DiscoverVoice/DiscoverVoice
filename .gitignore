@@ -1,2 +1,5 @@
 *.mp3
-utils/ffmpeg/bin
+*.wav
+/.ipynb_checkpoints/
+/experiment/
+./idea
