@@ -1,6 +1,3 @@
 [submodule "SuperDemucs"]
 	path = SuperDemucs
 	url = https://github.com/DiscoverVoice/SuperDemucs.git
-[submodule "SVCtransformers"]
-	path = SVCtransformers
-	url = https://github.com/DiscoverVoice/Singing-Voice-Conversion-transformers.git
