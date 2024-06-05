@@ -2,3 +2,9 @@
 /experiment/
 /Datasets/
 /.idea/
+/utils/__pycache__/
+/ipynb/.ipynb_checkpoints/
+/utils/.ipynb_checkpoints/
+/Pretrained/
+/nohup.out
+/json_files/
